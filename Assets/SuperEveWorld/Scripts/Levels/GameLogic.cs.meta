@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d5742fed98785b043a8b0452c2c80ac2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - superEveSkin: {fileID: 11400000, guid: 12d278487cd83c144ae0460ccd63cdf5, type: 2}
+  - victory: {instanceID: 0}
+  - bossPart1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
